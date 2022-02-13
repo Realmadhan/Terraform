@@ -8,3 +8,4 @@ resource "aws_instance" "terraform_ec2"{
   tags = {
     Name = "Ubuntu Server"
   }
+}
